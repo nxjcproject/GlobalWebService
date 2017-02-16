@@ -8,3 +8,13 @@ C:\工作\编程\恒拓软件\三层框架V3.1\GlobalWebService\GlobalWebService
 C:\工作\编程\恒拓软件\三层框架V3.1\GlobalWebService\GlobalWebService.Service\obj\Release\GlobalWebService.Service.csprojResolveAssemblyReference.cache
 C:\工作\编程\恒拓软件\三层框架V3.1\GlobalWebService\GlobalWebService.Service\obj\Release\GlobalWebService.Service.dll
 C:\工作\编程\恒拓软件\三层框架V3.1\GlobalWebService\GlobalWebService.Service\obj\Release\GlobalWebService.Service.pdb
+C:\工作\编程\三层框架V3.1\GlobalWebService\GlobalWebService.Service\bin\Release\GlobalWebService.Service.dll
+C:\工作\编程\三层框架V3.1\GlobalWebService\GlobalWebService.Service\bin\Release\GlobalWebService.Service.pdb
+C:\工作\编程\三层框架V3.1\GlobalWebService\GlobalWebService.Service\bin\Release\GlobalWebService.Infrastructure.dll
+C:\工作\编程\三层框架V3.1\GlobalWebService\GlobalWebService.Service\bin\Release\SqlServerDataAdapter.dll
+C:\工作\编程\三层框架V3.1\GlobalWebService\GlobalWebService.Service\bin\Release\AutoMapper.dll
+C:\工作\编程\三层框架V3.1\GlobalWebService\GlobalWebService.Service\bin\Release\GlobalWebService.Infrastructure.pdb
+C:\工作\编程\三层框架V3.1\GlobalWebService\GlobalWebService.Service\bin\Release\SqlServerDataAdapter.pdb
+C:\工作\编程\三层框架V3.1\GlobalWebService\GlobalWebService.Service\obj\Release\GlobalWebService.Service.csprojResolveAssemblyReference.cache
+C:\工作\编程\三层框架V3.1\GlobalWebService\GlobalWebService.Service\obj\Release\GlobalWebService.Service.dll
+C:\工作\编程\三层框架V3.1\GlobalWebService\GlobalWebService.Service\obj\Release\GlobalWebService.Service.pdb

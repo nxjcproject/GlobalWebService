@@ -38,6 +38,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DataCompression">
+      <HintPath>..\..\..\组件\DataCompression\DataCompression\bin\Debug\DataCompression.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -57,13 +60,20 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="WebService\FilesTransport.asmx" />
+    <Content Include="WebService\RealTimeData.asmx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WebService\FilesTransport.asmx.cs">
       <DependentUpon>FilesTransport.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="WebService\RealTimeData.asmx.cs">
+      <DependentUpon>RealTimeData.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
   </ItemGroup>
